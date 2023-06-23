@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sing-up-form/static/css/main.d8630580.css",
+    "main.js": "/Sing-up-form/static/js/main.2098286b.js",
+    "static/media/bg-intro-desktop.png": "/Sing-up-form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/Sing-up-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/Sing-up-form/index.html",
+    "static/media/icon-error.svg": "/Sing-up-form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.d8630580.css.map": "/Sing-up-form/static/css/main.d8630580.css.map",
+    "main.2098286b.js.map": "/Sing-up-form/static/js/main.2098286b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8630580.css",
+    "static/js/main.2098286b.js"
+  ]
+}
