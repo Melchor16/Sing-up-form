@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sign-up-form/build/static/css/main.acd9ab48.css",
+    "main.js": "/sign-up-form/build/static/js/main.fad5f6fb.js",
+    "static/media/bg-intro-desktop.png": "/sign-up-form/build/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/sign-up-form/build/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/sign-up-form/build/index.html",
+    "static/media/icon-error.svg": "/sign-up-form/build/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.acd9ab48.css.map": "/sign-up-form/build/static/css/main.acd9ab48.css.map",
+    "main.fad5f6fb.js.map": "/sign-up-form/build/static/js/main.fad5f6fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acd9ab48.css",
+    "static/js/main.fad5f6fb.js"
+  ]
+}
