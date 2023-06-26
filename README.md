@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Melchor16/Sing-up-form)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://melchor16.github.io/Sing-up-form/)
 
 ## My process
 
